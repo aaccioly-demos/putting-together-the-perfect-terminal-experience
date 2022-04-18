@@ -9,6 +9,6 @@ This work is licensed under a
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-[youtube-video]: https://youtu.be/vm1_fNcMnbg?t=1400
+[youtube-video]: https://youtu.be/vm1_fNcMnbg?t=1402
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
