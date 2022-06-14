@@ -1,5 +1,5 @@
 # Putting together the perfect terminal experience
-Slides for the London Java Community (LJC) Event in 2021-08-25
+Slides for the London Java Community (LJC) Event @ 2021-08-25
 
 [![YouTube Video](https://img.youtube.com/vi/vm1_fNcMnbg/0.jpg)][youtube-video]
 
